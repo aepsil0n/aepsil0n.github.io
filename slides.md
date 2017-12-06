@@ -1,13 +1,14 @@
-## Measurements of 8B solar neutrinos
+## Measurements of 8-B solar neutrinos
 
 Sudbury Neutrino Observatory Collaboration (2001)
 
-presented by Eduard Bopp at the IMPRS-HD Seminar Dec 7, 2017
+<img src="images/authors.png" width="60%" />
+
+IMPRS seminar talk by Eduard Bopp (Dec 7, 2017)
 
 
-### Nobel prize in physics 2015
+Nobel prize in physics 2015
 
-show people & detectors
 
 SNO & Super-Kamiokande
 
@@ -20,13 +21,14 @@ leptons, neutrinos & flavors
 
 ### Solar neutrino production
 
+show production mechanisms
 focus on 8-B
 
 
-### Missing neutrinos?
+solar neutrino problem
 
-not enough neutrinos
-possible solution: neutrino oscillations
+
+neutrino oscillations
 
 ---
 
@@ -71,22 +73,32 @@ Removal of radioactivity
 ## Results
 
 
-Clear CC signal
+<img src="images/events-volume.png">
 
 
-Distribution of events in angle and kinetic energy
+### Angular distribution
+
+<img src="images/angle-distribution.png">
+
+
+### Energy distribution
+
+<img src="images/energy-distribution.png">
 
 
 Uncertainties
 
 
 Neutrino flux measurements
+put in results
 
 
 Compare with high-precision Super-Kamiokande ES measurements
 
 
-Results for electron and tau-mu neutrino fluxes
+### Combined fluxes
+
+<img src="images/flux-range.png" width="70%">
 
 ---
 
