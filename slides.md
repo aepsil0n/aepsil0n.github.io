@@ -14,21 +14,53 @@ SNO & Super-Kamiokande
 
 ---
 
-### Quick recap: particle physics
-
-leptons, neutrinos & flavors
+<img src="images/sun.png">
 
 
-### Solar neutrino production
-
-show production mechanisms
-focus on 8-B
+<img src="images/sun-structure.png">
 
 
-solar neutrino problem
+<img src="images/pp-chain-1.png" height="600">
 
 
-neutrino oscillations
+<img src="images/pp-chain-3.png" height="600">
+
+
+### Quick recap: leptons & flavors
+
+Three flavors: e, τ, μ
+
+Neutrinos: $ν\_e$, $ν\_τ$, $ν\_μ$
+
+
+### Homestake experiment
+
+<div id="left">
+<img src="images/homestake.png" width="400">
+</div>
+
+<div id="right">
+
+<p>Count Argon atoms in $\mathrm{C}_2 \mathrm{Cl}_4$:</p>
+
+<p>$$ ν_e + {}^{37}\mathrm{Cl} \to {}^{37}\mathrm{Ar} + e^- $$</p>
+
+<p>Result: only 1/3 of expected flux</p>
+
+</div>
+
+
+### What is the cause?
+
+- Experimental error?
+- Solar structure model?
+- Standard model of particle physics?
+
+
+### Neutrino oscillations
+
+
+<img src="images/neutrino-oscillations.png" width="70%">
 
 ---
 
