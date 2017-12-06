@@ -7,7 +7,10 @@ Sudbury Neutrino Observatory Collaboration (2001)
 IMPRS seminar talk by Eduard Bopp (Dec 7, 2017)
 
 
-Nobel prize in physics 2015
+### Nobel prize in physics 2015
+
+<img src="images/kajita.jpg" height="500">
+<img src="images/mcdonald.jpg" height="500">
 
 
 SNO & Super-Kamiokande
@@ -90,27 +93,19 @@ Charged particles cause Cherenkov radiation
 
 Cherenkov detector
 
-pictures & schematics
-
 ---
 
 ## Measurements
 
-
 Data Overview
-
 
 Calibration
 
-
 Data reduction
-
 
 Accuracy & resolution
 
-
 Effective kinetic energy
-
 
 Removal of radioactivity
 
