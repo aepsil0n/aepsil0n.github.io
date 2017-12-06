@@ -23,9 +23,6 @@ SNO & Super-Kamiokande
 <img src="images/pp-chain-1.png" height="600">
 
 
-<img src="images/pp-chain-3.png" height="600">
-
-
 ### Quick recap: leptons & flavors
 
 Three flavors: e, τ, μ
@@ -66,16 +63,33 @@ Neutrinos: $ν\_e$, $ν\_τ$, $ν\_μ$
 
 ## Sudbury Neutrino Observatory
 
+<img src="images/sudbury-neutrino-observatory.png" height="500">
+
+
+${}^8 B$ solar neutrinos
+
+<img src="images/pp-chain-3.png" height="500">
+
 
 ### Detection reactions
 
-charged current, neutral current, elastic scattering
+$ ν_e + d \to p + p + e^- $ (charged current; CC)
+
+$ ν_x + d \to p + n + ν_x $ (neutral current; NC)
+
+$ ν_x + e^- \to ν_x + e^- $ (elastic scattering; ES)
 
 
-### The detector
+<img src="images/sno-inside.png">
+
+Note:
+
+Heavy water core to measure CC and NC reactions
+
+Charged particles cause Cherenkov radiation
 
 Cherenkov detector
-heavy water core to measure CC and NC reactions
+
 pictures & schematics
 
 ---
