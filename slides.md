@@ -124,6 +124,14 @@ Cherenkov detector: photomultiplier tubes
 
 <img src="images/angle-distribution.png">
 
+Note:
+
+reaction kinematics:
+
+forward peak → elastic scattering
+
+slope → charged current
+
 
 ### Energy distribution
 
