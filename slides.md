@@ -1,4 +1,4 @@
-## Measurements of 8-B solar neutrinos
+## Measurements of ${}^8 \mathrm{B}$ solar neutrinos
 
 Sudbury Neutrino Observatory Collaboration (2001)
 
