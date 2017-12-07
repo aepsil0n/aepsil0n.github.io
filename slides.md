@@ -126,6 +126,8 @@ Cherenkov detector: photomultiplier tubes
 
 Note:
 
+These are CC fluxes
+
 reaction kinematics:
 
 forward peak → elastic scattering
@@ -136,6 +138,14 @@ slope → charged current
 ### Energy distribution
 
 <img src="images/energy-distribution.png">
+
+Note:
+
+Spectrum of CC fluxes
+
+no deviation of the shape from non-oscillation hypothesis
+
+but: clearly lower than ES fluxes from Super-K
 
 
 ### Systematic error on fluxes
