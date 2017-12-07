@@ -74,6 +74,9 @@ ${}^8 B$ solar neutrinos
 <img src="images/pp-chain-3.png" height="500">
 
 
+<img src="images/solar-neutrino-spectra.png" height="600">
+
+
 ### Detection reactions
 
 $ ν_e + d \to p + p + e^- $ (charged current; CC)
@@ -81,6 +84,10 @@ $ ν_e + d \to p + p + e^- $ (charged current; CC)
 $ ν_x + d \to p + n + ν_x $ (neutral current; NC)
 
 $ ν_x + e^- \to ν_x + e^- $ (elastic scattering; ES)
+
+Note:
+
+elastic scattering is sensitive to all, but less to μ, τ
 
 
 <img src="images/sno-inside.png">
@@ -97,24 +104,19 @@ Cherenkov detector
 
 ## Measurements
 
-Data Overview
+- Data taken over 240.95 days between Nov 2, 1999 – Jan 15, 2001
+- Discard electrical charges
+- Remove cosmic rays
+- γ-ray events
 
-Calibration
 
-Data reduction
+### Candidates
 
-Accuracy & resolution
-
-Effective kinetic energy
-
-Removal of radioactivity
+<img src="images/events-volume.png">
 
 ---
 
 ## Results
-
-
-<img src="images/events-volume.png">
 
 
 ### Angular distribution
