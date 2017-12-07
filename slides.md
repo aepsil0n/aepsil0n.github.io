@@ -57,7 +57,11 @@ Neutrinos: $ν\_e$, $ν\_τ$, $ν\_μ$ <!-- .element: class="fragment" -->
 
 ### Neutrino oscillations
 
-Gribov & Pontecorvo (1969)
+Gribov & Pontecorvo (1969):
+
+$$ \lvert ν\_α \rangle = \sum\_i U\_{αi}^* ν\_i $$
+
+$$ \lvert ν\_i (L) \rangle = \exp ( -\frac{i m\_i^2 L}{2 E} ) \lvert ν\_i (0) \rangle $$
 
 
 <img src="images/neutrino-oscillations.png" width="70%">
