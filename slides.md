@@ -28,9 +28,9 @@ SNO & Super-Kamiokande
 
 ### Quick recap: leptons & flavors
 
-Three flavors: e, τ, μ
+Three flavors: e, τ, μ <!-- .element: class="fragment" -->
 
-Neutrinos: $ν\_e$, $ν\_τ$, $ν\_μ$
+Neutrinos: $ν\_e$, $ν\_τ$, $ν\_μ$ <!-- .element: class="fragment" -->
 
 
 ### Homestake experiment
@@ -41,20 +41,20 @@ Neutrinos: $ν\_e$, $ν\_τ$, $ν\_μ$
 
 <div id="right">
 
-<p>Count Argon atoms in $\mathrm{C}_2 \mathrm{Cl}_4$:</p>
+<p class="fragment">$$ ν_e + {}^{37}\mathrm{Cl} \to {}^{37}\mathrm{Ar} + e^- $$</p>
 
-<p>$$ ν_e + {}^{37}\mathrm{Cl} \to {}^{37}\mathrm{Ar} + e^- $$</p>
+<p class="fragment">count Argon atoms in $\mathrm{C}_2 \mathrm{Cl}_4$</p>
 
-<p>Result: only 1/3 of expected flux</p>
+<p class="fragment">→ only 1/3 of expected flux</p>
 
 </div>
 
 
 ### What is the cause?
 
-- Experimental error?
-- Solar structure model?
-- Standard model of particle physics?
+- Experimental error? <!-- .element: class="fragment" -->
+- Solar structure model? <!-- .element: class="fragment" -->
+- Standard model of particle physics? <!-- .element: class="fragment" -->
 
 
 ### Neutrino oscillations
@@ -79,11 +79,11 @@ ${}^8 B$ solar neutrinos
 
 ### Detection reactions
 
-$ ν_e + d \to p + p + e^- $ (charged current; CC)
+$ ν_e + d \to p + p + e^- $ (charged current; CC) <!-- .element: class="fragment" -->
 
-$ ν_x + d \to p + n + ν_x $ (neutral current; NC)
+$ ν_x + d \to p + n + ν_x $ (neutral current; NC) <!-- .element: class="fragment" -->
 
-$ ν_x + e^- \to ν_x + e^- $ (elastic scattering; ES)
+$ ν_x + e^- \to ν_x + e^- $ (elastic scattering; ES) <!-- .element: class="fragment" -->
 
 Note:
 
@@ -94,15 +94,16 @@ elastic scattering is sensitive to all, but less to μ, τ
 
 Note:
 
-Heavy water core to measure CC and NC reactions
+Heavy water core sensitive to reactions
 
 Charged particles cause Cherenkov radiation
 
-Cherenkov detector
+→ characteristic to reaction
 
----
+Cherenkov detector: photomultiplier tubes
 
-## Measurements
+
+### Measurements
 
 - Data taken over 240.95 days between Nov 2, 1999 – Jan 15, 2001
 - Discard electrical charges
@@ -129,14 +130,36 @@ Cherenkov detector
 <img src="images/energy-distribution.png">
 
 
-Uncertainties
+### Systematic error on fluxes
+
+<img src="images/flux-uncertainties.png">
 
 
-Neutrino flux measurements
-put in results
+### Neutrino flux
+
+$$\begin{eqnarray}
+Φ^\mathrm{CC}\_\mathrm{SNO} (ν\_e) &=& 1.75 \pm 0.07 \mathrm{(stat.)}
+{}^{+0.12}\_{-0.11} \mathrm{(sys.)}
+\pm 0.05 \mathrm{(theo.)} \\\\
+&&\times 10^6 \mathrm{cm}^{-2} \mathrm{s}^{-1} \\\\
+Φ^\mathrm{ES}\_\mathrm{SNO} (ν\_x) &=& 2.39 \pm 0.34 \mathrm{(stat.)}
+{}^{+0.16}\_{-0.14} \mathrm{(sys.)} \\\\
+&&\times 10^6 \mathrm{cm}^{-2} \mathrm{s}^{-1}
+\end{eqnarray}$$
+
+only $1.6 σ$ <!-- .element: class="fragment" -->
 
 
-Compare with high-precision Super-Kamiokande ES measurements
+### Compare with Super-Kamiokande
+
+$$\begin{eqnarray}
+Φ^\mathrm{ES}\_\mathrm{SK} (ν\_x) &=& 2.32 \pm 0.03 \mathrm{(stat.)}
+{}^{+0.08}\_{-0.07} \mathrm{(sys.)} \\\\
+&&\times 10^6 \mathrm{cm}^{-2} \mathrm{s}^{-1}
+\end{eqnarray}$$
+
+$3.3 σ$ difference between $Φ^\mathrm{ES}\_\mathrm{SK} (ν\_x)$ and
+$Φ^\mathrm{CC}\_\mathrm{SNO} (ν\_e)$! <!-- .element: class="fragment" -->
 
 
 ### Combined fluxes
