@@ -12,13 +12,15 @@ IMPRS seminar talk by Eduard Bopp (Dec 7, 2017)
 <img src="images/kajita.jpg" height="500">
 <img src="images/mcdonald.jpg" height="500">
 
+Takaaki Kajita & Arthur McDonald
 
-SNO & Super-Kamiokande
+
+<img src="images/super-kamiokande.jpg" height="300">
+<img src="images/sudbury-neutrino-observatory.png" height="300">
+
+Super-Kamiokande & Sudbury Neutrino Observatory
 
 ---
-
-<img src="images/sun.png">
-
 
 <img src="images/sun-structure.png">
 
@@ -40,13 +42,9 @@ Neutrinos: $ν\_e$, $ν\_τ$, $ν\_μ$ <!-- .element: class="fragment" -->
 </div>
 
 <div id="right">
-
 <p class="fragment">$$ ν_e + {}^{37}\mathrm{Cl} \to {}^{37}\mathrm{Ar} + e^- $$</p>
-
 <p class="fragment">count Argon atoms in $\mathrm{C}_2 \mathrm{Cl}_4$</p>
-
 <p class="fragment">→ only 1/3 of expected flux</p>
-
 </div>
 
 
@@ -58,6 +56,8 @@ Neutrinos: $ν\_e$, $ν\_τ$, $ν\_μ$ <!-- .element: class="fragment" -->
 
 
 ### Neutrino oscillations
+
+Gribov & Pontecorvo (1969)
 
 
 <img src="images/neutrino-oscillations.png" width="70%">
@@ -120,13 +120,11 @@ Cherenkov detector: photomultiplier tubes
 ## Results
 
 
-### Angular distribution
+### Angular distribution of CC events
 
 <img src="images/angle-distribution.png">
 
 Note:
-
-These are CC fluxes
 
 reaction kinematics:
 
@@ -135,13 +133,11 @@ forward peak → elastic scattering
 slope → charged current
 
 
-### Energy distribution
+### Energy distribution of CC events
 
 <img src="images/energy-distribution.png">
 
 Note:
-
-Spectrum of CC fluxes
 
 no deviation of the shape from non-oscillation hypothesis
 
@@ -186,4 +182,15 @@ $Φ^\mathrm{CC}\_\mathrm{SNO} (ν\_e)$! <!-- .element: class="fragment" -->
 
 ---
 
-### Summary
+## Summary
+
+- Astrophysics can help us learn about fundamental physics
+- Interior processes of the sun are well understood
+- Neutrinos can change their type in flight through oscillations
+
+Sources:
+
+- Ahmad et al./SNO collaboration (2001)
+- John Bahcall: Solar Models: An Historal Overview (2003)
+- John Bahcall: Solving the mystery of the missing neutrinos (2004)
+- Illustrations: Wikipedia, SNO and Super-K
