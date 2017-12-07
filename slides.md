@@ -110,14 +110,27 @@ Cherenkov detector: photomultiplier tubes
 ### Measurements
 
 - Data taken over 240.95 days between Nov 2, 1999 – Jan 15, 2001
-- Discard electrical charges
-- Remove cosmic rays
-- γ-ray events
+- Discard superfluous events
+  - Electrical charges
+  - Cosmic rays
+  - γ-ray events
 
 
 ### Candidates
 
 <img src="images/events-volume.png">
+
+Note:
+
+CC inside D2O
+
+ES both inside & outside
+
+contains neutron capture events
+
+discard everything inside the dashed line
+
+leave margin to acrylic vessel
 
 ---
 
